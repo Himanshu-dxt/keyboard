@@ -1,0 +1,2 @@
+# HELLO THERE THIS IS MY NEW HAND-GESTURED KEYBOARD
+This was a fun project :)
